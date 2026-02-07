@@ -6,7 +6,7 @@
   "keywords": ["bot", "whatsapp", "whatsapp-bot", "automation"],
   "success_url": "/",
   "env": {
-    "BOT_NAME": {hangore
+    "BOT_NAME": {hangore}
       "description": "Name of your bot",
       "value": "sᴛᴀʀ han",
       "required": true
